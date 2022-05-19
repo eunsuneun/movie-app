@@ -2,4 +2,4 @@
 
 React JS Fundamentals Course (2021 Update!)
 
-https://eunsuneun.github.io/movie-app
+[참고강의](https://nomadcoders.co/react-for-beginners/lobby)
