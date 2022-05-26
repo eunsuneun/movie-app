@@ -1,5 +1,7 @@
 # Movie App
 
-React JS Fundamentals Course (2021 Update!)
+React JS Fundamentals Course
 
-[참고강의](https://nomadcoders.co/react-for-beginners/lobby)
+old버전입니다.
+
+[참고강의](https://nomadcoders.co/react-for-beginners)
